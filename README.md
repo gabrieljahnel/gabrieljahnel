@@ -6,3 +6,4 @@
 
 ![email](gabriel.jahnel@pr.gov.br)
 ![](https://media.tenor.com/hsdK9EZhX9gAAAAd/kratos-kratos-lurking.gif)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
